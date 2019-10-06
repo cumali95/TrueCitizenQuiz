@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TrueCitizenQuiz</string>
+    <string name="trueButton">true</string>
+    <string name="false_Button">false</string>
+    <string name="question_declaretion">The (U.S.) Declaration of Independence was Adopted in 1776 </string>
+    <string name="correct_answer">That\s correct </string>
+    <string name="wrong_answer">That\s incorrect</string>
+    <string name="question_constitution">Ataturk 1881 yılında dogmustur</string>
+    <string name="question_amendments">Ataturk 1881 yılında dogmamistir</string>
+    <string name="question_independence_rights">18 yasindan buyukler secme hakkina sahiptir</string>
+    <string name="question_religion">Milad baslangic noktasi olarak hz.Isa\nın dogum tarihini alir</string>
+    <string name="question_government">Tayyip Erdogan Turkiye Cumhuriyet\i Basbakanidir </string>
+    <string name="question_government_fed">Turkiye Cumhuriyettir </string>
+    <string name="question_government_senators">Berat Albayrak Ekonomi Bakanıdır</string>
+    <string name="next">next</string>
+
+</resources>
